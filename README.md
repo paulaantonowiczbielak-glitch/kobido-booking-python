@@ -55,4 +55,4 @@ Bug reports are available here:
 
 ## Author
 
-Paula Antonowicz
+Paula Antonowicz Bielak
